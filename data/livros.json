@@ -134,8 +134,11 @@
     {
         "titulo": "O Pequeno Principe",
         "autor": "Antoine de Saint-Exupery",
-        "disponibilidade": true,
-        "data_devolucao": null
+        "disponibilidade": false,
+        "data_devolucao": "2025-01-21",
+        "fila_espera": [
+            "963852741"
+        ]
     },
     {
         "titulo": "O Doador de Memorias",

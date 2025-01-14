@@ -79,6 +79,20 @@
         "pergunta_seguranca": "Qual sua cor favorita?",
         "resposta_seguranca": "Azul",
         "cpf": "700.020.076-65",
+        "livros_reservados": [
+            {
+                "titulo": "O Pequeno Principe",
+                "data_devolucao": "2025-01-21"
+            }
+        ]
+    },
+    {
+        "nome": "Mateus",
+        "matricula": "963852741",
+        "senha": "963852741",
+        "pergunta_seguranca": "Qual sua comida favorita?",
+        "resposta_seguranca": "Arroz",
+        "cpf": "123.458.888-20",
         "livros_reservados": []
     }
 ]
