@@ -1,3 +1,4 @@
+#teste banco de dados
 from src.banco_de_dados import BancoDeDados
 
 clientes_db = BancoDeDados("./data/clientes.json")

@@ -1,3 +1,4 @@
+#teste cliente
 from src.cliente import Cliente
 from src.livro import Livro
 
