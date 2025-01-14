@@ -142,5 +142,11 @@
         "autor": "Lois Lowry",
         "disponibilidade": true,
         "data_devolucao": null
+    },
+    {
+        "titulo": "A Cabana",
+        "autor": "William P. Young",
+        "disponibilidade": true,
+        "data_devolucao": null
     }
 ]
