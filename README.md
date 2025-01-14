@@ -57,22 +57,22 @@ Um sistema de biblioteca desenvolvido em Python com interface gráfica utilizand
 
 ### **Estrutura do Projeto**
 
-sistemaBiblioteca/
-├── data/                     # Diretório para arquivos JSON
-│   ├── clientes.json         # Dados dos clientes
-│   ├── livros.json           # Dados dos livros
-│   └── bibliotecarios.json   # Dados dos bibliotecários
-├── src/                      # Diretório do código-fonte
-│   ├── interface/            # Interface gráfica com Tkinter
-│   │   ├── cadastro.py       # Tela de cadastro
-│   │   ├── login.py          # Tela de login e redefinição de senha
-│   │   ├── painel_cliente.py # Painel do cliente
-│   │   └── painel_biblio.py  # Painel do bibliotecário
-│   ├── banco_de_dados.py     # Classe para manipulação de JSON
-│   ├── sistema.py            # Classes principais do sistema
-│   └── livro.py              # Classe Livro
-├── main.py                   # Arquivo principal para executar o sistema
-└── README.md                 # Documentação do projeto
+sistemaBiblioteca/\
+├── data/                     # Diretório para arquivos JSON\
+│   ├── clientes.json         # Dados dos clientes\
+│   ├── livros.json           # Dados dos livros\
+│   └── bibliotecarios.json   # Dados dos bibliotecários\
+├── src/                      # Diretório do código-fonte\
+│   ├── interface/            # Interface gráfica com Tkinter\
+│   │   ├── cadastro.py       # Tela de cadastro\
+│   │   ├── login.py          # Tela de login e redefinição de senha\
+│   │   ├── painel_cliente.py # Painel do cliente\
+│   │   └── painel_biblio.py  # Painel do bibliotecário\
+│   ├── banco_de_dados.py     # Classe para manipulação de JSON\
+│   ├── sistema.py            # Classes principais do sistema\
+│   └── livro.py              # Classe Livro\
+├── main.py                   # Arquivo principal para executar o sistema\
+└── README.md                 # Documentação do projeto\
 
 Funcionalidades em Detalhes
 1. Cadastro
@@ -132,5 +132,5 @@ Funcionalidades em Detalhes
 
 ### **Autores:**
 Anna Clara Guimarães Tomaz de Souza;\
-Júlia Santos Vieira;
+Júlia Santos Vieira;\
 Victor Luiz Lima Rodrigues.
