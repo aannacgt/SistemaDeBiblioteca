@@ -134,6 +134,6 @@ Funcionalidades em Detalhes
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ### **Autores**
-Anna Clara Guimarães Tomaz de Souza
-Júlia Santos Vieira
-Victor Luiz Lima Rodrigues
+Anna Clara Guimarães Tomaz de Souza;
+Júlia Santos Vieira;
+Victor Luiz Lima Rodrigues.
