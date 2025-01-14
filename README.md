@@ -129,11 +129,8 @@ Funcionalidades em Detalhes
     Visualizar pendências de clientes.
     Redefinir senha.
    
-### **Contribuições** 
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-### **Autores**
-Anna Clara Guimarães Tomaz de Souza;
+### **Autores:**
+Anna Clara Guimarães Tomaz de Souza;\
 Júlia Santos Vieira;
 Victor Luiz Lima Rodrigues.
