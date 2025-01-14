@@ -1,4 +1,4 @@
-# SistemaDeBiblioteca
+# Sistema De Biblioteca
 
 Um sistema de biblioteca desenvolvido em Python com interface gráfica utilizando Tkinter e persistência de dados em arquivos JSON. O sistema foi projetado para gerenciar usuários (clientes e bibliotecários), livros, reservas e redefinição de senhas com segurança. Ideal para aprendizado e implementação de conceitos de Programação Orientada a Objetos (POO).
 
@@ -131,6 +131,6 @@ Funcionalidades em Detalhes
    
 
 ### **Autores:**
-Anna Clara Guimarães Tomaz de Souza;\
-Júlia Santos Vieira;\
-Victor Luiz Lima Rodrigues.
+- Anna Clara Guimarães Tomaz de Souza;\
+- Júlia Santos Vieira;\
+- Victor Luiz Lima Rodrigues.
