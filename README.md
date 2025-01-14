@@ -40,15 +40,15 @@ Um sistema de biblioteca desenvolvido em Python com interface gráfica utilizand
 
 ### **Passos**
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/sistema-biblioteca.git
+   git clone https://github.com/seu-usuario/SistemaDeBiblioteca.git
 
-2. Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
     cd sistema-biblioteca
    
-3. Instale as dependências (caso necessário):
+4. Instale as dependências (caso necessário):
     pip install -r requirements.txt
    
-4. Execute o sistema:
+5. Execute o sistema:
     python main.py
 
 
