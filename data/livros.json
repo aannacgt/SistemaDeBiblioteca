@@ -28,5 +28,119 @@
         "autor": "Jesus",
         "disponibilidade": false,
         "data_devolucao": "2024-11-26"
+    },
+    {
+        "titulo": "A Selecao",
+        "autor": "Kiera Cass",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Escolha",
+        "autor": "Kiera Cass",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Elite",
+        "autor": "Kiera Cass",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Herdeira",
+        "autor": "Kiera Cass",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Como Eu Era Antes de Voce",
+        "autor": "Jojo Moyes",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Culpa e das Estrelas",
+        "autor": "John Green",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Neuromancer",
+        "autor": "William Gibson",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "O Vendedor de Sonhos",
+        "autor": "Augusto Cury",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Perto do Coracao Selvagem",
+        "autor": "Clarice Lispector",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "Fala Serio, Mae!",
+        "autor": "Talita Reboucas",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "O Mar de Monstros",
+        "autor": "Rick Riordan",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Maldicao do Tita",
+        "autor": "Rick Riordan",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "A Batalha do Labirinto",
+        "autor": "Rick Riordan",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "O Ultimo Olimpiano",
+        "autor": "Rick Riordan",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "O Pequeno Principe",
+        "autor": "Antoine de Saint-Exupery",
+        "disponibilidade": true,
+        "data_devolucao": null
+    },
+    {
+        "titulo": "O Doador de Memorias",
+        "autor": "Lois Lowry",
+        "disponibilidade": true,
+        "data_devolucao": null
     }
 ]

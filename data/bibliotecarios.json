@@ -22,5 +22,21 @@
         "pergunta_seguranca": "Qual o nome do seu animal de estima\u00e7\u00e3o?",
         "resposta_seguranca": "Figo",
         "cpf": "256.579.215-45"
+    },
+    {
+        "nome": "Victor",
+        "matricula": "12345678",
+        "senha": "victorvictor",
+        "pergunta_seguranca": "Qual sua cor favorita?",
+        "resposta_seguranca": "Verde",
+        "cpf": "124.525.859-58"
+    },
+    {
+        "nome": "Mariza",
+        "matricula": "008631",
+        "senha": "008631",
+        "pergunta_seguranca": "Qual o nome do seu animal de estima\u00e7\u00e3o?",
+        "resposta_seguranca": "Dully",
+        "cpf": "152.558.664-14"
     }
 ]

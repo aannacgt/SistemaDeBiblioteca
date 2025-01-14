@@ -71,5 +71,14 @@
         "resposta_seguranca": "Lasanha",
         "cpf": "145.657.654-98",
         "livros_reservados": []
+    },
+    {
+        "nome": "Julia",
+        "matricula": "2022060886",
+        "senha": "96487133",
+        "pergunta_seguranca": "Qual sua cor favorita?",
+        "resposta_seguranca": "Azul",
+        "cpf": "700.020.076-65",
+        "livros_reservados": []
     }
 ]
