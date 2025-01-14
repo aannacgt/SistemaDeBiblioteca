@@ -131,6 +131,6 @@ Funcionalidades em Detalhes
    
 
 ### **Autores:**
-- Anna Clara Guimarães Tomaz de Souza;\
-- Júlia Santos Vieira;\
+- Anna Clara Guimarães Tomaz de Souza;
+- Júlia Santos Vieira;
 - Victor Luiz Lima Rodrigues.
