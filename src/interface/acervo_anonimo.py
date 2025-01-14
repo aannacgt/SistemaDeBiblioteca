@@ -71,5 +71,5 @@ class TelaAcervoAnonimo:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    #app = TelaAcervo(root)
+    app = TelaAcervo(root)
     root.mainloop()

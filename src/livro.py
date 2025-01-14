@@ -1,23 +1,17 @@
-class Cliente:
-    def __init__(self, nome, matricula, senha, pergunta_seguranca, resposta) -> None:
-        self.nome = nome
-        self.matricula = matricula
-        self.senha = senha
-        self.pergunta_seguranca = pergunta_seguranca
-        self.resposta = resposta
-        self.livros_reservados = []
-#visualização de acervo para usuarios anonimos e cadastrados
-    def visualizar_acervo(self, banco_livros) -> None:
-        livros = banco_livros.carregar()
-        return [livro for livro in livros if livro["disponibilidade"]]
-#reserva de livros para clientes
-    def reservar_livro(self, titulo, banco_livros) -> None:
-        livros = banco_livros.carregar()
-        for livro in livros:
-            if livro["titulo"] == titulo and livro["disponibilidade"]:
-                livro["disponibilidade"] = False
-                livro["data_devolucao"] = "Data de exemplo"
-                banco_livros.salvar(livros)
-                self.livros_reservados.append(titulo)
-                return f"Livro '{titulo}' reservado."
-        return f"Livro '{titulo}' não disponível."
+class Livro:
+    def __init__(self, titulo, autor, disponibilidade=True, data_devolucao=None) -> None:
+        self.titulo = titulo
+        self.autor = autor
+        self.disponibilidade = disponibilidade
+        self.data_devolucao = data_devolucao
+#função para realizar o aluguel do livro com uma data de devolução
+    def emprestar_livro(self, data_devolucao) -> None:
+        if self.disponibilidade:
+            self.disponibilidade = False
+            self.data_devolucao = data_devolucao
+            return True
+        return False
+#função para quando o livro é devolvido
+    def devolver_livro(self) -> None:
+        self.disponibilidade = True
+        self.data_devolucao = None
