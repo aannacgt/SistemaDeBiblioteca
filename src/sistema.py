@@ -78,7 +78,7 @@ class Sistema:
             "cpf": cpf
         }
         self.banco_bibliotecarios.adicionar(nova_bibliotecaria)
-        return f"Bibliotecária(o) '{nome}' cadastrada com sucesso."
+        return f"Bibliotecária '{nome}' cadastrada com sucesso."
 
 #função de login, utiliza os dados carregados no .json para validar o login
     def login(self, matricula, senha, perfil="cliente") -> None:
